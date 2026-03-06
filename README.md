@@ -1,2 +1,0 @@
-# WhatsAutoPro
-WhatsApp scheduler
